@@ -1,2 +1,2 @@
-# Luiz_Nobre_engenharia_de_prompt_ia
+# Luiz_Nobre_Engenharia_de_Prompt_IA
 disciplina da faculdade

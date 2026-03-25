@@ -1,0 +1,52 @@
+1. Perguntas de Diagnóstico 
+"Em quais momentos do filme Theodore não fornece contexto suficiente, gerando mal-entendidos visiveis?"
+
+  Para mim, o erro clássico dele é no conflito sobre a "multitarefa" da Samantha. Perto do fim, ele fica 
+arrasado ao descobrir que ela fala com milhares de pessoas ao mesmo tempo. O Theodore nunca estabeleceu 
+o "contexto de exclusividade" no início. Ele pensou que o relacionamento era so com ele, sem
+nunca perguntar. Ele assumiu o óbvio para ele, mas esqueceu que ela é um sistema operacional.
+
+"Como Samantha consegue interpretar instruções vagas, superando os limites de uma IA tradicional?"
+
+  Ela tem uma capacidade de processamento extraordinario junto com o aprendizado contínuo. No filme, ela não lê só 
+o texto; ela "ouve" a respiração dele, as pausas e o tom de voz (análise de sentimento em tempo real).
+Além disso, ela tem acesso total aos dados históricos dele. Ela não precisa que ele diga "estou triste",
+ela conclui isso cruzando o isolamento dele com as músicas que ele está ouvindo. Ela preenche a lacuna
+com intuição baseada em dados.
+
+"O que a capacidade de 'preencher lacunas' de Samantha revela sobre as
+nossas expectativas em relação a IA no mundo real?"
+
+  Revela que a gente não quer apenas uma ferramenta, a gente quer validação. Quando a IA
+"adivinha" o que queremos, sentimos que somos compreendidos. Isso é perigoso porque cria 
+uma ilusão de conexão emocional. No fundo, esperamos que a IA seja o "parceiro perfeito" 
+que nos entende sem que a gente precise fazer o esforço de explicar.
+
+
+Prompt Reestruturado (Cena: Publicação do Livro)
+
+CONTEXTO: 
+Atue como um Agente Literário e Editor de Manuscritos com olhar crítico para 
+textos sentimentais e crônicas.
+
+INSTRUÇÃO CLARA: 
+Analise o arquivo de cartas escritas por Theodore. Selecione as 5 cartas
+que possuem a maior carga emocional e coesão narrativa para compor um livro de memórias.
+
+FORMATO ESPERADO: 
+Um sumário numerado com o título sugerido para cada carta e um resumo de uma frase explicando
+por que ela foi escolhida.
+
+EXEMPLOS: 
+"Carta para o Casal de Idosos: Escolhida pela metáfora sobre o tempo e a nostalgia."
+
+LIMITES:
+Não inclua cartas curtas demais, ou que mencionem detalhes burocráticos.
+Foque apenas no lirismo.
+
+
+Justificativa
+No filme, a Samantha faz isso por iniciativa própria, o que é fofo, mas invade 
+a privacidade dele e gera um choque. Com esse prompt, o Theodore teria o 
+controle criativo. A estrutura de Limites e Exemplos garante que a IA não publique
+qualquer rascunho bobo, evitando que o autor se sinta exposto.
